@@ -69,4 +69,4 @@ Java (TM) SE Runtime Environment (build 13.0.1+9)
  </dl>
 
 ---
-**For Information on overview of Cache functionalities and Erroe Handling in the project, Please refer the docs (pdf)!** :books:
+**For Information on overview of Cache functionalities and Error Handling in the project, Please refer the docs (pdf)!** :books:

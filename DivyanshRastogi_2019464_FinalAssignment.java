@@ -1,8 +1,6 @@
 /*
 AUTHOR: DIVYANSH RASTOGI [2019464]
 */
-// Made by Divyansh Rastogi
-// 2019464
 
 import java.util.*;
 import java.io.*;

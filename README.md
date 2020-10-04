@@ -7,7 +7,7 @@ Documentation
 
 Project Description && Implementation Presuppositions
 
-Single level [ ] Fully Associative Cache, Direct Mapped Cache, N-way Set Cache are implemented in a highly user-interactive terminal interface. The programming language of the aforementioned implementation is Java (based on OOPS). 
+Single level Fully Associative Cache, Direct Mapped Cache, N-way Set Cache are implemented in a highly user-interactive terminal interface. The programming language of the aforementioned implementation is Java (based on OOPS). 
 
 The implemented caches simulate to a very high extent the functionality with extensive showcase of oops modularity to model a real-world computer’s inbuilt cache. The programming done is very user-friendly, error-free and the application is very convenient to use and easy to get familiar with the inbuilt functionalities. 
 
@@ -25,6 +25,7 @@ The following will be displayed on the terminal:
 
  
 Commands
+
 •	help
 o	Get an overview of the functionality of the caches and various commands.
  

@@ -14,9 +14,9 @@ Java (TM) SE Runtime Environment (build 13.0.1+9)
 
 <ins> Usage/ Code Functionality </ins>
 
-> Direct the program “DivyanshRastogi_2019464_FinalAssignment.java” into a suitable directory, and load your command prompt into the same directory and execute the program.
+> Direct the program “Main.java” into a suitable directory, and load your command prompt into the same directory and execute the program.
 
-`java DivyanshRastogi_2019464_FinalAssignment.java`
+`java Main.java`
 
 ---
 <h3> Commands </h3>
